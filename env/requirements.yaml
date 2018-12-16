@@ -10,9 +10,6 @@ dependencies:
 - name: jxapp
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.11
-- name: jxapp2
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.1
 - name: soda-gift
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.2
